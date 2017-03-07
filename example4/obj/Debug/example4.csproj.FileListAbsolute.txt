@@ -3,3 +3,4 @@ D:\Csharp-Projects\cs280-lecture2-examples\example4\bin\Debug\example4.exe
 D:\Csharp-Projects\cs280-lecture2-examples\example4\bin\Debug\example4.pdb
 D:\Csharp-Projects\cs280-lecture2-examples\example4\obj\Debug\example4.exe
 D:\Csharp-Projects\cs280-lecture2-examples\example4\obj\Debug\example4.pdb
+D:\Csharp-Projects\cs280-lecture2-examples\example4\obj\Debug\example4.csprojResolveAssemblyReference.cache
